@@ -5,6 +5,9 @@
   "description": "vue3-vite-scaffold",
   "author": "zzc",
   "license": "MIT",
+  "bin": {
+    "talk915-admin-tool": "./bin/cli.js"
+  },
   "scripts": {
     "dev": "vite",
     "build:prod": "vite build",
