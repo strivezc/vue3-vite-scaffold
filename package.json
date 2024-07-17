@@ -1,11 +1,11 @@
 {
-  "name": "vue3-vite-scaffold",
+  "name": "talk915-admin-vue3-scaffold",
   "version": "1.0.0",
-  "description": "vue3-vite-scaffold",
+  "description": "talk915-admin-vue3-scaffold",
   "author": "zzc",
   "license": "MIT",
   "bin": {
-    "talk915-admin-tool": "./bin/cli.js"
+    "talk915-admin-vue3": "./bin/cli.js"
   },
   "scripts": {
     "dev": "vite",
