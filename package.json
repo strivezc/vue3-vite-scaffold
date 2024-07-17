@@ -1,7 +1,7 @@
 {
-  "name": "talk915-admin-vue3-scaffold",
+ "name": "talk915-admin-vue3",
   "version": "1.0.0",
-  "description": "talk915-admin-vue3-scaffold",
+  "description": "talk915-admin-vue3",
   "author": "zzc",
   "license": "MIT",
   "bin": {
