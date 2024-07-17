@@ -1,11 +1,11 @@
 {
- "name": "talk915-admin-vue3",
+ "name": "zzc-admin-vue3",
   "version": "1.0.0",
-  "description": "talk915-admin-vue3",
+  "description": "zzc-admin-vue3",
   "author": "zzc",
   "license": "MIT",
   "bin": {
-    "talk915-admin-vue3": "./bin/cli.js"
+    "zzc-admin-vue3": "./bin/cli.js"
   },
   "scripts": {
     "dev": "vite",
